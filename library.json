@@ -1,0 +1,26 @@
+{
+    "name": "GpioAbstractionLayer",
+    "version": "0.0.1",
+    "description": "C++ library for PlatformIO, abstraction layer to handle GPIO pins (setup, read, write)",
+    "keywords": "gpio, abstraction",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sporniket/GpioAbstractionLayer"
+    },
+    "authors": [
+        {
+            "name": "David SPORN",
+            "url": "https://github.com/sporniket",
+            "maintainer": true
+        }
+    ],
+    "export": {
+        "exclude": [
+            ".gitignore",
+            "*.gz"
+        ]
+    },
+    "license": "GPL-3.0-or-later",
+    "frameworks": "*",
+    "platforms": "*"
+}
