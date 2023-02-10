@@ -17,4 +17,4 @@ Initial publishing, extracted from working code.
 
 ## Typical application
 
-> See platform implementations (to come)
+_See also [the showcase/maintenance project](https://github.com/sporniket/demo-task-gpio-button-led)_
